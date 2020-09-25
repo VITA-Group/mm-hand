@@ -1,5 +1,4 @@
 anykeystore==0.2
-apex==0.1
 aspy.refactor-imports==2.1.1
 asv==0.4.1
 cached-property==1.5.1
