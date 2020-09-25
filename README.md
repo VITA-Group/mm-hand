@@ -36,7 +36,7 @@ $ python ./tools/create_STB_DB.py [Path to downloaded STB dataset] ./datasets/st
 $ python ./tools/create_RHD_DB.py [PATH to downloaded RHD dataset] ./datasets/rhd_dataset 256
 ```
 ## Run Script
-<b>Be sure to read the options avaiable within scripts<b>
+<b>Be sure to read the options that are available within scripts<b>
 ```
 $ bash ./scripts/mm-train-ratio.sh
 ```
