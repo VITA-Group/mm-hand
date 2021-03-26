@@ -65,7 +65,7 @@ python-dateutil==2.8.1
 python3-openid==3.1.0
 pytz==2020.1
 PyWavelets==1.1.1
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 reorder-python-imports==2.3.1
 repoze.sendmail==4.4.1
