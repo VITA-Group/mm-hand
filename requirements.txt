@@ -39,7 +39,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.3
 mccabe==0.6.1
 networkx==2.4
-numpy==1.18.1
+numpy==1.22.0
 nvidia-ml-py3==7.352.0
 oauthlib==3.1.0
 olefile==0.46
